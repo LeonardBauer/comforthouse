@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Seite-1" id="3h0mqdkHoot6rFkAIViI">
-    <mxGraphModel dx="4234" dy="3452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4521" dy="3576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="FgW4zMUzAmuTyGkmz0fC-169" value="Automatisch" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;align=center;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=V5iah5MzGClI;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-450" y="-885" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FgW4zMUzAmuTyGkmz0fC-170" value="Einlesen der Informationen" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;align=center;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=aLkapkDl1fSc;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="FgW4zMUzAmuTyGkmz0fC-170" value="Einlesen der Informationen&lt;div&gt;(Schalter)&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;align=center;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=aLkapkDl1fSc;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1065" y="-1200" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FgW4zMUzAmuTyGkmz0fC-171" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=-0.008;exitPerimeter=0;entryX=0.5;entryY=1.013;entryPerimeter=0;lucidId=yLka5wsqvrpC;labelBackgroundColor=none;fontColor=default;" parent="1" source="FgW4zMUzAmuTyGkmz0fC-170" target="FgW4zMUzAmuTyGkmz0fC-167" edge="1">
@@ -263,8 +263,11 @@
         <mxCell id="FgW4zMUzAmuTyGkmz0fC-226" value="Auf dem Display zeigen" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;align=center;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=t5kaX1HOo2ZO;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-420" y="405" width="195" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="WzjnQLMpl0k_vYTGge7P-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="FgW4zMUzAmuTyGkmz0fC-227" target="FgW4zMUzAmuTyGkmz0fC-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FgW4zMUzAmuTyGkmz0fC-227" value="Manuelle Einstellung der Jalousinen" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rhombus;fontSize=16.7;align=center;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=w5kaDMIVVfay;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1552" y="-555" width="180" height="119" as="geometry" />
+          <mxGeometry x="-1470" y="-520" width="180" height="119" as="geometry" />
         </mxCell>
         <mxCell id="FgW4zMUzAmuTyGkmz0fC-228" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.013;exitPerimeter=0;entryX=1.004;entryY=0.5;entryPerimeter=0;lucidId=A5ka~o3I9TCq;labelBackgroundColor=none;fontColor=default;" parent="1" source="FgW4zMUzAmuTyGkmz0fC-210" target="FgW4zMUzAmuTyGkmz0fC-180" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
