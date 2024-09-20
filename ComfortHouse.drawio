@@ -403,8 +403,8 @@
         <mxCell id="4ffSJX3rjdnMdORvWQ93-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4ffSJX3rjdnMdORvWQ93-1" target="4ffSJX3rjdnMdORvWQ93-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RbVIVYjmF05epLdLIUiV-5" value="Lichteinschlag hoch&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ffSJX3rjdnMdORvWQ93-15">
-          <mxGeometry x="0.0095" relative="1" as="geometry">
+        <mxCell id="RbVIVYjmF05epLdLIUiV-6" value="Lichteinschlag hoch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ffSJX3rjdnMdORvWQ93-15">
+          <mxGeometry x="-0.0619" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
